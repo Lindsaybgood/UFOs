@@ -37,3 +37,4 @@ At a quick glance, there are over seven "shape" results for the shape filter.  T
 
 It would also enhance the user experience to include a search result counter that displays the number of results for the searched criteria.
 
+
