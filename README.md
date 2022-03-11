@@ -20,7 +20,7 @@ Just below, you will find sighting data that includes the following:
 -  UFO descriptive data
 -  witness comments
 
-![webpage](https://github.com/ashley-green1/UFOs/blob/main/static/images/webpage_snapshot.png)
+![webpage](https://github.com/Lindsaybgood/UFOs/blob/main/static/images/webpage_snapshot.png)
 
 The user will be able to enter date, location and descriptive data to filter the data table see the results that match their criteria.
 
