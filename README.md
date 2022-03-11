@@ -39,4 +39,3 @@ It would also enhance the user experience to include a search result counter tha
 
 
 
-
