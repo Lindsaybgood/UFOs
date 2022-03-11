@@ -36,4 +36,3 @@ While the table is great, one drawback is that Javascript language is case sensi
 At a quick glance, there are over seven "shape" results for the shape filter.  The filter currently allows the end user to filter shape data by simply typing the search criteria into the search field.  A dropdown option would enhance the user experience if there were a dropdown option for "Shape" due to the broad range of descriptions.  Those unfamiliar with UFO sightings may not know that "light" is considered a shape for UFOs. 
 
 It would also enhance the user experience to include a search result counter that displays the number of results for the searched criteria.
-
